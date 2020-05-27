@@ -1,1 +1,6 @@
-pro:true
+name:term
+profile:pro
+label:master
+data:
+  p1:1
+  p2:2
