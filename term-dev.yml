@@ -1,7 +1,7 @@
-source:
+data:
   name: term
   profile: dev
   label: master
-  data: 
+  param: 
     p1: 1
     p2: 2
