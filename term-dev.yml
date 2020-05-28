@@ -1,3 +1,6 @@
-name:term
-profile:dev
-label:master
+name: term
+profile: dev
+label: master
+data: 
+  p1: 1
+  p2: 2
